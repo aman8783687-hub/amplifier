@@ -1,0 +1,43 @@
+# --- Node / Remotion ---
+node_modules/
+*/node_modules/
+reel/out/
+reel/build/
+npm-debug.log*
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# --- Secrets & local config (never commit) ---
+.env
+.env.*
+!.env.example
+agent_key
+*agent_key*
+*.key
+*.pem
+credentials.json
+token.json
+
+# --- Generated media / workspaces ---
+perchance_output/
+images/
+final/
+renders/
+*.mp4
+*.mp3
+*.wav
+*.srt
+ceo.db
+*.db
+*.sqlite*
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/

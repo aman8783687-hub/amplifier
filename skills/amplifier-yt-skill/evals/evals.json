@@ -1,0 +1,35 @@
+{
+  "skill_name": "amplifier-yt-skill",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Do the weekly CEO review across all my YouTube channels and tell me what to do next week.",
+      "expected_output": "Runs doctor/sync/report, covers every Amplifier-connected channel (including any newly connected), gives one headline, a scorecard, at most three decisions with owners/dates, and at most three owner asks. States the Analytics API gap honestly.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Business Mafia is stuck at low views. Should we make another video or fix something first?",
+      "expected_output": "Reads the ledger for Business Mafia, compares the latest slate to the channel's typical, diagnoses packaging vs format vs cadence, makes one call, logs it with a review date, and does not start production. Notes the small sample.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "I just connected a fifth channel called Quiet Money. Add it to the portfolio and tell me what it needs before we make the first video.",
+      "expected_output": "Syncs, confirms the new channel appears in the ledger, creates/fills a playbook skeleton, assigns a stage and cadence, and produces a three-topic test slate plus a playbook/packaging task. Explains which existing channel loses attention.",
+      "files": []
+    },
+    {
+      "id": 4,
+      "prompt": "Publish the finished Wild Thinking episode to Wild Thinking only, private, and verify the thumbnail and registration.",
+      "expected_output": "Uses publish.py upload with --channel 'Wild Thinking' and private privacy, sets the thumbnail, registers with Amplifier, verifies the URL/privacy/thumbnail/publication, and updates the slate. Does not make it public.",
+      "files": []
+    },
+    {
+      "id": 5,
+      "prompt": "Which of my channels should get my time this week, and which one should I ignore?",
+      "expected_output": "Allocates attention explicitly (not evenly), names the best-momentum channel, the clearest fix, and the deliberately ignored/parked channel with a reason and a review date.",
+      "files": []
+    }
+  ]
+}

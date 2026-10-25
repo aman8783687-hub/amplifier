@@ -1,0 +1,555 @@
+{
+  "fps": 30,
+  "voice": "en-IN-NeerjaExpressiveNeural",
+  "tempo": 1.03,
+  "totalSeconds": 47.868,
+  "totalFrames": 1436,
+  "segments": [
+    {
+      "id": "s1",
+      "text": "There's a saree that makes people stop mid-sentence. Not the one you're thinking of.",
+      "file": "audio/s1.mp3",
+      "start": 0.0,
+      "duration": 5.856,
+      "startFrame": 0,
+      "frames": 176,
+      "words": [
+        {
+          "text": "There's",
+          "start": 0.093,
+          "dur": 0.245
+        },
+        {
+          "text": "a",
+          "start": 0.349,
+          "dur": 0.056
+        },
+        {
+          "text": "saree",
+          "start": 0.416,
+          "dur": 0.379
+        },
+        {
+          "text": "that",
+          "start": 0.806,
+          "dur": 0.223
+        },
+        {
+          "text": "makes",
+          "start": 1.039,
+          "dur": 0.256
+        },
+        {
+          "text": "people",
+          "start": 1.307,
+          "dur": 0.345
+        },
+        {
+          "text": "stop",
+          "start": 1.663,
+          "dur": 0.323
+        },
+        {
+          "text": "mid-sentence",
+          "start": 1.997,
+          "dur": 0.724
+        },
+        {
+          "text": "Not",
+          "start": 3.541,
+          "dur": 0.312
+        },
+        {
+          "text": "the",
+          "start": 3.863,
+          "dur": 0.1
+        },
+        {
+          "text": "one",
+          "start": 3.975,
+          "dur": 0.223
+        },
+        {
+          "text": "you're",
+          "start": 4.209,
+          "dur": 0.156
+        },
+        {
+          "text": "thinking",
+          "start": 4.376,
+          "dur": 0.356
+        },
+        {
+          "text": "of",
+          "start": 4.743,
+          "dur": 0.234
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "I zoomed in on the border for ten minutes. Mirror. Sequins. Gold thread that catches the light.",
+      "file": "audio/s2.mp3",
+      "start": 6.196,
+      "duration": 8.352,
+      "startFrame": 186,
+      "frames": 251,
+      "words": [
+        {
+          "text": "I",
+          "start": 0.093,
+          "dur": 0.134
+        },
+        {
+          "text": "zoomed",
+          "start": 0.238,
+          "dur": 0.334
+        },
+        {
+          "text": "in",
+          "start": 0.583,
+          "dur": 0.1
+        },
+        {
+          "text": "on",
+          "start": 0.694,
+          "dur": 0.1
+        },
+        {
+          "text": "the",
+          "start": 0.806,
+          "dur": 0.078
+        },
+        {
+          "text": "border",
+          "start": 0.895,
+          "dur": 0.367
+        },
+        {
+          "text": "for",
+          "start": 1.273,
+          "dur": 0.178
+        },
+        {
+          "text": "ten",
+          "start": 1.463,
+          "dur": 0.256
+        },
+        {
+          "text": "minutes",
+          "start": 1.73,
+          "dur": 0.49
+        },
+        {
+          "text": "Mirror",
+          "start": 3.062,
+          "dur": 0.512
+        },
+        {
+          "text": "Sequins",
+          "start": 4.264,
+          "dur": 0.757
+        },
+        {
+          "text": "Gold",
+          "start": 5.745,
+          "dur": 0.334
+        },
+        {
+          "text": "thread",
+          "start": 6.09,
+          "dur": 0.367
+        },
+        {
+          "text": "that",
+          "start": 6.469,
+          "dur": 0.167
+        },
+        {
+          "text": "catches",
+          "start": 6.647,
+          "dur": 0.379
+        },
+        {
+          "text": "the",
+          "start": 7.037,
+          "dur": 0.089
+        },
+        {
+          "text": "light",
+          "start": 7.137,
+          "dur": 0.39
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Then I saw it move. Satin that falls like water. The kind of drape that makes you stand taller.",
+      "file": "audio/s3.mp3",
+      "start": 14.888,
+      "duration": 7.8,
+      "startFrame": 447,
+      "frames": 234,
+      "words": [
+        {
+          "text": "Then",
+          "start": 0.093,
+          "dur": 0.223
+        },
+        {
+          "text": "I",
+          "start": 0.327,
+          "dur": 0.134
+        },
+        {
+          "text": "saw",
+          "start": 0.472,
+          "dur": 0.245
+        },
+        {
+          "text": "it",
+          "start": 0.728,
+          "dur": 0.134
+        },
+        {
+          "text": "move",
+          "start": 0.872,
+          "dur": 0.345
+        },
+        {
+          "text": "Satin",
+          "start": 2.093,
+          "dur": 0.445
+        },
+        {
+          "text": "that",
+          "start": 2.55,
+          "dur": 0.156
+        },
+        {
+          "text": "falls",
+          "start": 2.717,
+          "dur": 0.367
+        },
+        {
+          "text": "like",
+          "start": 3.095,
+          "dur": 0.2
+        },
+        {
+          "text": "water",
+          "start": 3.307,
+          "dur": 0.445
+        },
+        {
+          "text": "The",
+          "start": 4.576,
+          "dur": 0.1
+        },
+        {
+          "text": "kind",
+          "start": 4.687,
+          "dur": 0.312
+        },
+        {
+          "text": "of",
+          "start": 5.01,
+          "dur": 0.122
+        },
+        {
+          "text": "drape",
+          "start": 5.144,
+          "dur": 0.334
+        },
+        {
+          "text": "that",
+          "start": 5.489,
+          "dur": 0.223
+        },
+        {
+          "text": "makes",
+          "start": 5.723,
+          "dur": 0.289
+        },
+        {
+          "text": "you",
+          "start": 6.023,
+          "dur": 0.111
+        },
+        {
+          "text": "stand",
+          "start": 6.146,
+          "dur": 0.412
+        },
+        {
+          "text": "taller",
+          "start": 6.569,
+          "dur": 0.423
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "So I checked the price. One thousand three hundred forty-five. For this.",
+      "file": "audio/s4.mp3",
+      "start": 23.028,
+      "duration": 6.456,
+      "startFrame": 691,
+      "frames": 194,
+      "words": [
+        {
+          "text": "So",
+          "start": 0.093,
+          "dur": 0.278
+        },
+        {
+          "text": "I",
+          "start": 0.383,
+          "dur": 0.167
+        },
+        {
+          "text": "checked",
+          "start": 0.561,
+          "dur": 0.289
+        },
+        {
+          "text": "the",
+          "start": 0.861,
+          "dur": 0.1
+        },
+        {
+          "text": "price",
+          "start": 0.973,
+          "dur": 0.434
+        },
+        {
+          "text": "One",
+          "start": 2.204,
+          "dur": 0.301
+        },
+        {
+          "text": "thousand",
+          "start": 2.516,
+          "dur": 0.39
+        },
+        {
+          "text": "three",
+          "start": 2.917,
+          "dur": 0.212
+        },
+        {
+          "text": "hundred",
+          "start": 3.14,
+          "dur": 0.267
+        },
+        {
+          "text": "forty-five",
+          "start": 3.418,
+          "dur": 0.668
+        },
+        {
+          "text": "For",
+          "start": 4.921,
+          "dur": 0.234
+        },
+        {
+          "text": "this",
+          "start": 5.166,
+          "dur": 0.445
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "Morning pooja, one way. Night party, a completely different woman. Same six yards.",
+      "file": "audio/s5.mp3",
+      "start": 29.824,
+      "duration": 7.824,
+      "startFrame": 895,
+      "frames": 235,
+      "words": [
+        {
+          "text": "Morning",
+          "start": 0.093,
+          "dur": 0.39
+        },
+        {
+          "text": "pooja",
+          "start": 0.494,
+          "dur": 0.479
+        },
+        {
+          "text": "one",
+          "start": 1.084,
+          "dur": 0.367
+        },
+        {
+          "text": "way",
+          "start": 1.463,
+          "dur": 0.301
+        },
+        {
+          "text": "Night",
+          "start": 2.561,
+          "dur": 0.345
+        },
+        {
+          "text": "party",
+          "start": 2.917,
+          "dur": 0.479
+        },
+        {
+          "text": "a",
+          "start": 3.563,
+          "dur": 0.056
+        },
+        {
+          "text": "completely",
+          "start": 3.63,
+          "dur": 0.557
+        },
+        {
+          "text": "different",
+          "start": 4.197,
+          "dur": 0.401
+        },
+        {
+          "text": "woman",
+          "start": 4.609,
+          "dur": 0.401
+        },
+        {
+          "text": "Same",
+          "start": 5.834,
+          "dur": 0.356
+        },
+        {
+          "text": "six",
+          "start": 6.202,
+          "dur": 0.323
+        },
+        {
+          "text": "yards",
+          "start": 6.536,
+          "dur": 0.423
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "text": "Diwali is on the eighth. The one you'll wish you'd bought when it's gone. The link's in the pinned comment. Go.",
+      "file": "audio/s6.mp3",
+      "start": 37.988,
+      "duration": 8.88,
+      "startFrame": 1140,
+      "frames": 266,
+      "words": [
+        {
+          "text": "Diwali",
+          "start": 0.093,
+          "dur": 0.523
+        },
+        {
+          "text": "is",
+          "start": 0.628,
+          "dur": 0.156
+        },
+        {
+          "text": "on",
+          "start": 0.794,
+          "dur": 0.156
+        },
+        {
+          "text": "the",
+          "start": 0.962,
+          "dur": 0.122
+        },
+        {
+          "text": "eighth",
+          "start": 1.095,
+          "dur": 0.379
+        },
+        {
+          "text": "The",
+          "start": 2.316,
+          "dur": 0.134
+        },
+        {
+          "text": "one",
+          "start": 2.461,
+          "dur": 0.212
+        },
+        {
+          "text": "you'll",
+          "start": 2.683,
+          "dur": 0.212
+        },
+        {
+          "text": "wish",
+          "start": 2.906,
+          "dur": 0.267
+        },
+        {
+          "text": "you'd",
+          "start": 3.184,
+          "dur": 0.167
+        },
+        {
+          "text": "bought",
+          "start": 3.362,
+          "dur": 0.301
+        },
+        {
+          "text": "when",
+          "start": 3.674,
+          "dur": 0.178
+        },
+        {
+          "text": "it's",
+          "start": 3.863,
+          "dur": 0.167
+        },
+        {
+          "text": "gone",
+          "start": 4.042,
+          "dur": 0.401
+        },
+        {
+          "text": "The",
+          "start": 5.277,
+          "dur": 0.111
+        },
+        {
+          "text": "link's",
+          "start": 5.4,
+          "dur": 0.356
+        },
+        {
+          "text": "in",
+          "start": 5.767,
+          "dur": 0.1
+        },
+        {
+          "text": "the",
+          "start": 5.879,
+          "dur": 0.078
+        },
+        {
+          "text": "pinned",
+          "start": 5.968,
+          "dur": 0.323
+        },
+        {
+          "text": "comment",
+          "start": 6.302,
+          "dur": 0.523
+        },
+        {
+          "text": "Go",
+          "start": 7.627,
+          "dur": 0.534
+        }
+      ]
+    }
+  ]
+}
